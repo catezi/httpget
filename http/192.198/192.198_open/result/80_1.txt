@@ -1,0 +1,13 @@
+HOST:  PORT: 765
+message:
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 25 Nov 2016 08:38:33 +0100
+Content-Type: application/octet-stream
+Set-Cookie: PHPSESSID=FwqkvioZzh12QsAFIpWY3QHQ1vQ0K82x
+Accept-Ranges: bytes
+
+
+HOST:  PORT: 765
+message:
+
